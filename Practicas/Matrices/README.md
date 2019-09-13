@@ -5,11 +5,9 @@ We need your help, the Agency is code a big project and we need you ti pitch in.
 
 The two matrices
 
-Addition
-
-Subtraction
-
-Multiplication
+- Addition
+- Subtraction
+- Multiplication
 
 Make it modular, so we can integrate this easyly.
 
