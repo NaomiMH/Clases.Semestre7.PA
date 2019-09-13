@@ -1,5 +1,4 @@
 # P5. Structures
- 
 
 The Agency needs your help to code a program that will ask the user for the following information of an agent and will save it on a structure:
 
